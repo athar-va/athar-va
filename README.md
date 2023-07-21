@@ -1,7 +1,7 @@
 # Atharva Raut
-##### Namaste! 🙏🏻 I'm Atharva Raut, a passionate technologist and an emerging Digital Solutions Strategist. I am currently honing my skills through a Masters in Computer Science at Rutgers University - New Brunswick.
-##### Boasting over 2.5 years of experience in the tech industry, I've had the opportunity to work on a diverse range of projects and challenges.
-##### In a pursuit of continuing my knowledge voyage, I am currently working on creating my own social media focussed towards career development.
+### Namaste! 🙏🏻 I'm Atharva Raut, a passionate technologist and an emerging Digital Solutions Strategist. I am currently honing my skills through a Masters in Computer Science at Rutgers University - New Brunswick.
+### Boasting over 2.5 years of experience in the tech industry, I've had the opportunity to work on a diverse range of projects and challenges.
+### In a pursuit of continuing my knowledge voyage, I am currently working on creating my own social media focussed towards career development.
 ##
 
 <h2> Connect with me on 👇</h2>
